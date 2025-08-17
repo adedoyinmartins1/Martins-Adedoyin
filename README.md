@@ -1,3 +1,4 @@
-# Cleaned Portuguese Bank Marketing
+# Geographical Market Analysis
+### Project Overview
+This project is being set up by a company to analyse and survey its marketing strengths by identifying the regions and countries where its products are purchased most frequently. Additionally, the company aims to understand the demographics, particularly the gender, that shows greater interest in their products. This information will help the company improve its products and determine where to focus its marketing efforts.
 
-An entry-level data analyst portfolio featuring Excel projects with formulas like IFS, SUMIFS, AVERAGEIFS, and lookup tools (VLOOKUP, XLOOKUP, INDEX/MATCH). Includes practical datasets for analysis and visualization, showcasing skills in data cleaning and basic reporting.
