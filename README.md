@@ -19,5 +19,5 @@ This project is being set up by a company to analyse and survey its marketing st
 •	**Source** : Client provided CSV file
 
 •	**Tools Used** : 
-*Microsoft Excel – Initial data review and corrections, data cleaning, and analysis
+*Microsoft Excel – Initial data review and corrections, data cleaning, and analysis.
 
