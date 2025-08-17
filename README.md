@@ -16,7 +16,7 @@ This project is being set up by a company to analyse and survey its marketing st
 3.	**Data Analysis** - Demographic Analysis performed gender-based segmentation to assess interest levels and buying patterns, and used time-series analysis to detect emerging markets or shifts in consumer behaviour over time.
 4.	**Recommendations** - Provided actionable insights to support marketing strategies and product positioning, suggested regions for potential expansion or increased advertising efforts based on high interest or emerging trends, and lastly highlighted gender-based marketing opportunities to align messaging with consumer interests.
 ### Data Source & Tools
-•	Source : Client provided CSV file
-•	Tools Used : 
+•	**Source** : Client provided CSV file
+•	**Tools Used** : 
 *Microsoft Excel – Initial data review and corrections, data cleaning, and analysis
 
