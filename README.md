@@ -10,10 +10,10 @@ This project is being set up by a company to analyse and survey its marketing st
 + Consumer Purchase Behaviour Analysis: Analyse transactional data to uncover behavioural insights, such as repeat purchases, product category performance, and regional variations in consumer preferences.
 + Market Strength Assessment: Compare sales performance and market share across regions, potentially incorporating competitor data to assess the company’s standing in the market.
 ### Methodology
-1.	Data Collection - Aggregated internal sales data segmented by country, region, and product line and collection of demographic information (especially gender) from customer databases, surveys, and analytics tools.
-2.	Data Cleaning & Preparation -  Removed incomplete or duplicated records to ensure high-quality analysis, and categorised data into relevant groups (e.g., by continent, economic region, or customer segment).
-3.	Data Analysis - Demographic Analysis performed gender-based segmentation to assess interest levels and buying patterns, and used time-series analysis to detect emerging markets or shifts in consumer behaviour over time.
-4.	Recommendations - Provided actionable insights to support marketing strategies and product positioning, suggested regions for potential expansion or increased advertising efforts based on high interest or emerging trends, and lastly highlighted gender-based marketing opportunities to align messaging with consumer interests.
+1.	**Data Collection** - Aggregated internal sales data segmented by country, region, and product line and collection of demographic information (especially gender) from customer databases, surveys, and analytics tools.
+2.	**Data Cleaning & Preparation** -  Removed incomplete or duplicated records to ensure high-quality analysis, and categorised data into relevant groups (e.g., by continent, economic region, or customer segment).
+3.	**Data Analysis** - Demographic Analysis performed gender-based segmentation to assess interest levels and buying patterns, and used time-series analysis to detect emerging markets or shifts in consumer behaviour over time.
+4.	**Recommendations** - Provided actionable insights to support marketing strategies and product positioning, suggested regions for potential expansion or increased advertising efforts based on high interest or emerging trends, and lastly highlighted gender-based marketing opportunities to align messaging with consumer interests.
 ### Data Source & Tools
 •	Source : Client provided CSV file
 •	Tools Used : 
