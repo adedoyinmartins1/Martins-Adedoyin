@@ -15,7 +15,6 @@ This assignment highlights foundational skills in data manipulation and reportin
 •	Enhance formula error-handling
 •	Create a summarised output sheet to effectively showcase analytical findings
 
-
 ### Scope of the Analysis
 •	Data Coverage: The analysis is limited to the provided dataset, which includes 500 order records. It covers customers from 46 unique countries : such as USA, Japan, Vietnam, Ghana, Sudan, China, Denmark, Russia, Brazil, UAE E.T.C.
 •	Inclusions: 
@@ -28,8 +27,9 @@ o	No analysis of other variables like city, product type, or order date trends.
 •	No external data integration or advanced visualizations (e.g., charts were optional but not required).
 •	 Assumptions: Each row represents a unique purchase event. Repeated customers (e.g., those with multiple orders) are counted separately per order. "Not Found" phone numbers were ignored as they don't affect the core criteria.
 This scope keeps the analysis focused on the assignment's requirements while demonstrating targeted Excel proficiency.
+
 ###Data Description
-The dataset is a tabular structure with 16 rows of sample order data, including the following columns:
+The dataset is a tabular structure with 501 rows of sample order data, including the following columns:
 •	Customer¬_#: Unique customer identifier.
 •	Full Name: Customer's name.
 •	Gender: Female or Male.
