@@ -7,10 +7,10 @@ Using Excel's COUNTIFS function, I calculated the number of purchases (i.e., ord
 This assignment highlights foundational skills in data manipulation and reporting, which are essential for real-world data analysis roles.
 
 ### Objective
-•  Primary Objective: Use the COUNTIFS formula to count product purchases (order rows meeting specific criteria) segmented by: 
+•  **Primary Objective**: Use the COUNTIFS formula to count product purchases (order rows meeting specific criteria) segmented by: 
 •	Gender (Female or Male)
 •	Country: This analysis reveals the distribution of purchases across demographics and geographies.
-•  Secondary Goals: 
+•  **Secondary Goals**: 
 •	Practice data organization
 •	Enhance formula error-handling
 •	Create a summarised output sheet to effectively showcase analytical findings
