@@ -63,7 +63,6 @@ Specific formulas =COUNTIFS(CountIFS_Test!$C$2:$C$501,CountIFS_Test!$C$2,CountIF
  This assignment reinforced essential Excel skills for data analysis, particularly in using COUNTIFS for conditional counting. By segmenting purchases by gender and country, I demonstrated how simple formulas can uncover demographic patterns. This project serves as a building block in my portfolio, showcasing my progress in the course and readiness for more complex analyses. Future extensions could include SUMIFS for quantity totals. 
  
 ### Attachments/Links
-•	Excel File: Download Purchase_Analysis_Assignment.xlsx – Includes raw data, formulas, and summary.
-•	Screenshots: Embedded images of key sheets.
+•	Excel File : Download Excel-Logical Assignment-Gender and Country-Based Purchase Counts Using COUNTIFS.xlsx– Includes raw data, formulas, and summary.
  
 
