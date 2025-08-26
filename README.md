@@ -28,7 +28,7 @@ o	No analysis of other variables like city, product type, or order date trends.
 •	 Assumptions: Each row represents a unique purchase event. Repeated customers (e.g., those with multiple orders) are counted separately per order. "Not Found" phone numbers were ignored as they don't affect the core criteria.
 This scope keeps the analysis focused on the assignment's requirements while demonstrating targeted Excel proficiency.
 
-###Data Description
+### Data Description
 The dataset is a tabular structure with 501 rows of sample order data, including the following columns:
 •	Customer¬_#: Unique customer identifier.
 •	Full Name: Customer's name.
