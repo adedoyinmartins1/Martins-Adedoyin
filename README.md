@@ -15,3 +15,5 @@
 
 ### Excel-Logical Assignment-Gender and Country-Based Purchase Counts Using COUNTIFS
 
+<img src="https://github.com/adedoyinmartins1/Excel-Logical-Assignment-Gender-and-Country-Based-Purchase-Counts-Using-COUNTIFS/blob/main/Excel-Logical%20Assignment-Gender%20and%20Country-Based%20Purchase%20Counts%20Using%20COUNTIFS.xlsx" width="300">
+
