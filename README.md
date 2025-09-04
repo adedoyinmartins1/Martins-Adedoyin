@@ -1,6 +1,6 @@
 # Martins Adedoyin's Data Analyst Portfolio
 
-<img src="images/profile.jpg" alt="Headshot of martins pix" width="150" style="border-radius: 50%;"> 
+<img src="https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/martins%20pix.jpg" alt="Headshot" width="150">
 
 **Hello! I’m Martins Adedoyin, an entry-level data analyst with a specialization in Excel. I have mastered various formulas, including IF, IFS, COUNTIF, COUNTIFS, VLOOKUP, XLOOKUP, TEXT, and TRIM. I am passionate about cleaning messy datasets and delivering clear, actionable insights to drive business success. After completing my Excel training, I plan to learn Power BI, SQL, and data storytelling to create impactful strategies. This portfolio showcases my projects and skills, demonstrating my commitment to becoming a proficient data analyst.**
  
