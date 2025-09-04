@@ -18,7 +18,7 @@
 
 ### Excel-Logical Assignment-Gender and Country-Based Purchase Counts Using COUNTIFS
 
-<img src="https://github.com/adedoyinmartins1/Excel-Logical-Assignment-Gender-and-Country-Based-Purchase-Counts-Using-COUNTIFS/blob/main/Excel-Logical%20Assignment-Gender%20and%20Country-Based%20Purchase%20Counts%20Using%20COUNTIFS.xlsx" width="200">
+<img src="https://github.com/adedoyinmartins1/Excel-Logical-Assignment-Gender-and-Country-Based-Purchase-Counts-Using-COUNTIFS/blob/main/Excel-Logical%20Assignment-Gender%20and%20Country-Based%20Purchase%20Counts%20Using%20COUNTIFS.xlsx" width="250">
 
 - **Data Description**:
   The dataset is a tabular structure with 501 rows of sample order data, including the following columns:
@@ -38,3 +38,7 @@
   •	Products: Product name (e.g., Product 1, Product 10).
 
   •	Quantity: Number of units purchased (not used in counting but available for potential extensions).
+  
+- **Technology**: Excel (COUNTIFS)
+
+- **Files**
