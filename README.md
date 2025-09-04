@@ -23,18 +23,18 @@
 - **Data Description**:
   The dataset is a tabular structure with 501 rows of sample order data, including the following columns:
 
-•	Customer¬_#: Unique customer identifier.
+  •	Customer¬_#: Unique customer identifier.
 
-•	Full Name: Customer's name.
+  •	Full Name: Customer's name.
 
-•	Gender: Female or Male.
+  •	Gender: Female or Male.
 
-•	City: Customer's city.
+  •	City: Customer's city.
 
-•	Country: Customer's country.
+  •	Country: Customer's country.
 
-•	Phone Number: Contact number (some marked as "Not Found").
+  •	Phone Number: Contact number (some marked as "Not Found").
 
-•	Products: Product name (e.g., Product 1, Product 10).
+  •	Products: Product name (e.g., Product 1, Product 10).
 
-•	Quantity: Number of units purchased (not used in counting but available for potential extensions).
+  •	Quantity: Number of units purchased (not used in counting but available for potential extensions).
