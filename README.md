@@ -2,6 +2,7 @@
 **Hello! I’m Martins Adedoyin, an entry-level data analyst with a specialization in Excel. I have mastered various formulas, including IF, IFS, COUNTIF, COUNTIFS, VLOOKUP, XLOOKUP, TEXT, and TRIM. I am passionate about cleaning messy datasets and delivering clear, actionable insights to drive business success. After completing my Excel training, I plan to learn Power BI, SQL, and data storytelling to create impactful strategies. This portfolio showcases my projects and skills, demonstrating my commitment to becoming a proficient data analyst.**
  
 ### About Me
+- **Background**: Self-taught data analyst with 3+ months of experience in Excel, focusing on data analysis and visualization. I started my journey in July 2025 and am excited to grow in the field.
 - **Skills**:
   - **Excel**: IFS, COUNTIF, COUNTIFS, VLOOKUP, XLOOKUP, TEXT, and TRIM
   - **Data Analysis**: Data cleaning, summarization
