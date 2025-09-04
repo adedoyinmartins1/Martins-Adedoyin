@@ -12,3 +12,5 @@
 - **Goals**: To become a proficient data analyst skilled in Power BI, SQL, and data storytelling for business impact.
 
 ## Featured Projects
+
+### Excel-Logical Assignment-Gender and Country-Based Purchase Counts Using COUNTIFS
