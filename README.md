@@ -1,4 +1,4 @@
-# Martins Adedoyin's Data Analyst Portfolio
+# Martins Adedoyin's Data & Business Analyst Portfolio
 
 <img src="https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/martins%20pix.jpg" alt="Headshot" width="300">
 
