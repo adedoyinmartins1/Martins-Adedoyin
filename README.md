@@ -10,3 +10,5 @@
   - **Soft Skills**: Communication, Attention To Details, Time Management
 - **Location**: Ilorin, Nigeria
 - **Goals**: To become a proficient data analyst skilled in Power BI, SQL, and data storytelling for business impact.
+
+## Featured Projects
