@@ -13,11 +13,9 @@
   
   IFS, COUNTIF, COUNTIFS, VLOOKUP, XLOOKUP, TEXT, and TRIM
   - **Data Analysis**:
-  -
-  -   Data cleaning, summarization
+  -Data cleaning, summarization
   - **Future Learning**:
-  -
-  - Power BI (building dashboards), SQL (querying databases)
+  -Power BI (building dashboards), SQL (querying databases)
   - **Soft Skills**: Communication, Attention To Details, Time Management
 - **Location**: Ilorin, Nigeria
 - **Goals**: To become a proficient data analyst skilled in Power BI, SQL, and data storytelling for business impact.
