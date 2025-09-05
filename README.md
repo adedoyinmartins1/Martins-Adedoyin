@@ -12,7 +12,8 @@
   - **Data Analysis**:
   -Data cleaning, summarization
   - **Future Learning**:
-    <img src="https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/Power-Bi-Logo.png" alt="Headshot" width="100"> (building dashboards), SQL (querying databases)
+    <img src="https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/Power-Bi-Logo.png" alt="Headshot" width="100"> SQL (querying databases)
+    (building dashboards)
   - **Soft Skills**: Communication, Attention To Details, Time Management
 - **Location**: Ilorin, Nigeria
 - **Goals**: To become a proficient data analyst skilled in Power BI, SQL, and data storytelling for business impact.
