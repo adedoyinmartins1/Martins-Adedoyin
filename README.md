@@ -7,13 +7,12 @@
 ### About Me
 - **Background**: Self-taught data analyst with 3+ months of experience in Excel, focusing on data analysis and visualization. I started my journey in July 2025 and am excited to grow in the field.
 - **Skills**:
-- 
-  
+
   <img src="https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/excel%20logo1.jpg" alt="Headshot" width="100"> :IFS, COUNTIF, COUNTIFS, VLOOKUP, XLOOKUP, TEXT, and TRIM
   - **Data Analysis**:
   -Data cleaning, summarization
   - **Future Learning**:
-  -Power BI (building dashboards), SQL (querying databases)
+    <img src="https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/Power-Bi-Logo.png" alt="Headshot" width="100"> (building dashboards), SQL (querying databases)
   - **Soft Skills**: Communication, Attention To Details, Time Management
 - **Location**: Ilorin, Nigeria
 - **Goals**: To become a proficient data analyst skilled in Power BI, SQL, and data storytelling for business impact.
