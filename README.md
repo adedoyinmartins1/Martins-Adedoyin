@@ -9,9 +9,7 @@
 - **Skills**:
 - 
   
-  <img src="https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/excel%20logo1.jpg" alt="Headshot" width="100"> :
-  
-  IFS, COUNTIF, COUNTIFS, VLOOKUP, XLOOKUP, TEXT, and TRIM
+  <img src="https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/excel%20logo1.jpg" alt="Headshot" width="100"> :IFS, COUNTIF, COUNTIFS, VLOOKUP, XLOOKUP, TEXT, and TRIM
   - **Data Analysis**:
   -Data cleaning, summarization
   - **Future Learning**:
