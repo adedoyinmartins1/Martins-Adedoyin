@@ -13,6 +13,7 @@
   - **Soft Skills**: Communication, Attention To Details, Time Management
   - Data Analysis: Data cleaning, summarization
   - **Future Learning**:
+
     <img src="https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/Power-Bi-Logo.png" alt="Headshot" width="200"> <img src="https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/sql-logo.webp" width="100">
     
 - **Location**: Ilorin, Nigeria
