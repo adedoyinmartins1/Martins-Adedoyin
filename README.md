@@ -85,4 +85,5 @@ Hannah	Sales	8	$71914	7
 Eva	Sales	5	$100507	0
 Bob	Marketing	7	$109026	5
 
-- **Technologies**: Excel (IF,IFS AND NESTED IF)
+- **Technologies**: Excel (IF,IFS and NESTED IF)
+- **Files**: [Excel Logical Functions Project-Workforce Analysis Assignment](https://github.com/adedoyinmartins1/Excel-Logical-Functions-Project--Workforce-Analysis-Assignment/blob/main/Digital_World_Logical_Test.xlsx)
