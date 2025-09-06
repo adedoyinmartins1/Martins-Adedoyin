@@ -23,7 +23,7 @@
 
 ### Excel-Logical Assignment-Gender and Country-Based Purchase Counts Using COUNTIFS
 
-[Download Excel_Logical Assignment Dataset] (files/Excel_Logical Assignments1_Gender and Country_Based Purchase Counts.xlsx)
+[Download Excel_Logical Assignment Dataset](files/Excel_Logical Assignments1_Gender and Country_Based Purchase Counts.xlsx)
 - **Data Description**:
   The dataset is a tabular structure with 501 rows of sample order data, including the following columns:
 
