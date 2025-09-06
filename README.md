@@ -64,3 +64,23 @@ Specific formulas =COUNTIFS(CountIFS_Test!$C$2:$C$501,CountIFS_Test!$C$2,CountIF
 
 <img src="https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/2nd%20Assignment%20screenshot.png" width="350">
 
+### Data Description
+The dataset is structured in an Excel workbook named "Excel-Logical Assignment.xlsx" with two sheets:
+
+•	**Task-Workforce_Planning_and_Pro: Raw data including**:
+  - Employee Name (e.g., Alice, Bob)
+  - Department (IT, Sales, Marketing, HR, Finance)
+  - Performance Score (1-10)
+  - Salary (numeric, in USD)
+  - Years of Experience (0-20)
+
+•	**Logical_workout**: Extended sheet with derived columns (as per assignment tasks). 
+
+Sample data preview (first few rows):
+
+**Employee Name	Department	Performance Score	Salary	Years of Experience**
+Alice	IT	7	$66368	2
+Grace	IT	4	$36783	8
+Hannah	Sales	8	$71914	7
+Eva	Sales	5	$100507	0
+Bob	Marketing	7	$109026	5
