@@ -44,8 +44,19 @@
   •	Quantity: Number of units purchased (not used in counting but available for potential extensions).
   
 - **Technology**: Excel (COUNTIFS)
-- **Methodology**:
+- **Methodology**: I followed a structured approach to complete the assignment:
+1.	Data Preparation: 
+- Imported the dataset into Sheet1 named it (Task).
+- Created 2 new sheets named them (Female category and Male category) respectively.
+- In the 2 sheets, I listed unique countries in Column A. I was able to do that by using the duplicate remover function by highlighting the data range and press Alt + A + M then Enter.
+- Listed out all the products from 1-10 in the other Columns.
+2.	Formula Application: Used COUNTIFS to count rows in Sheet1 meeting multiple criteria: matching gender and country e.g.
+General COUNTIFS syntax: =COUNTIFS(range1, criteria1, range2, criteria2, ...)
+Specific formulas =COUNTIFS(CountIFS_Test!$C$2:$C$501,CountIFS_Test!$C$2,CountIFS_Test!$E$2:$E$501,A2,CountIFS_Test!$H$2:$H$501,CountIFS_Test!$H$3) this was formula was specifically used to obtain the result for Product 1 in the female category, and the same approach was applied for all the products. 
+3.	Validation: Ensured absolute references ($/f4) key for fixed ranges.
+4.	Output Presentation: Formatted the Summary sheet with bold headers, borders, and conditional formatting
+
 - **Files** 
   - (https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/Excel_Logical%20Assignments1_Gender%20and%20Country_Based%20Purchase%20Counts.xlsx)
-  - [View Analysis Report](files/customer-report.pdf)
+  - 
 
