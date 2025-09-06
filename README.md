@@ -10,9 +10,11 @@
 
   <img src="https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/excel%20logo1.jpg" alt="Headshot" width="100">: VLOOKUP, HLOOKUP, COUNTIFS, IFS, XLOOKUP, TRIM, TEXT
 
+  - **Soft Skills**: Communication, Attention To Details, Time Management
   - Data Analysis: Data cleaning, summarization
   - **Future Learning**:
-    <img src="https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/Power-Bi-Logo.png" alt="Headshot" width="100"> <img src="https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/sql-logo.webp" width="100"> databases)
+
+    <img src="https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/Power-Bi-Logo.png" alt="Headshot" width="100"> <img src="https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/sql-logo.webp" width="100">
     
   - **Soft Skills**: Communication, Attention To Details, Time Management
 - **Location**: Ilorin, Nigeria
