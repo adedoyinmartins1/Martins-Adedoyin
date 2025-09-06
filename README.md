@@ -64,7 +64,7 @@ Specific formulas =COUNTIFS(CountIFS_Test!$C$2:$C$501,CountIFS_Test!$C$2,CountIF
 
 <img src="https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/2nd%20Assignment%20screenshot.png" width="350">
 
-### Data Description
+**Data Description**
 The dataset is structured in an Excel workbook named "Excel-Logical Assignment.xlsx" with two sheets:
 
 •	**Task-Workforce_Planning_and_Pro: Raw data including**:
