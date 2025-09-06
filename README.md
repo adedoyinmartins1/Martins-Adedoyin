@@ -46,6 +46,6 @@
 - **Technology**: Excel (COUNTIFS)
 
 - **Files** 
-  - [Download Excel Logical Assignment Gender and Country Based Purchase Counts Dataset](files/https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/Excel_Logical%20Assignments1_Gender%20and%20Country_Based%20Purchase%20Counts.xlsx)
+  - (https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/Excel_Logical%20Assignments1_Gender%20and%20Country_Based%20Purchase%20Counts.xlsx)
   - [View Analysis Report](files/customer-report.pdf)
 
