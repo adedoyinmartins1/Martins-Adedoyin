@@ -44,7 +44,7 @@
   •	Quantity: Number of units purchased (not used in counting but available for potential extensions).
   
 - **Technology**: Excel (COUNTIFS)
-
+- **Methodology**:
 - **Files** 
   - (https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/Excel_Logical%20Assignments1_Gender%20and%20Country_Based%20Purchase%20Counts.xlsx)
   - [View Analysis Report](files/customer-report.pdf)
