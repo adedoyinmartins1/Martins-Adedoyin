@@ -61,3 +61,5 @@ Specific formulas =COUNTIFS(CountIFS_Test!$C$2:$C$501,CountIFS_Test!$C$2,CountIF
 
 ### Excel Logical Functions Project-Workforce Analysis Assignment
 
+<img src="https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/2nd%20Assignment%20screenshot.png" width="350">
+
