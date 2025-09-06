@@ -56,7 +56,6 @@ Specific formulas =COUNTIFS(CountIFS_Test!$C$2:$C$501,CountIFS_Test!$C$2,CountIF
 3.	Validation: Ensured absolute references ($/f4) key for fixed ranges.
 4.	Output Presentation: Formatted the Summary sheet with bold headers, borders, and conditional formatting
 
-- **Files** 
-  - (https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/Excel_Logical%20Assignments1_Gender%20and%20Country_Based%20Purchase%20Counts.xlsx)
-  - 
+- **Files**: (https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/Excel_Logical%20Assignments1_Gender%20and%20Country_Based%20Purchase%20Counts.xlsx)
+- **Link**: [Project Repository](https://github.com/adedoyinmartins1/Excel-Logical-Assignment-Gender-and-Country-Based-Purchase-Counts-Using-COUNTIFS)
 
