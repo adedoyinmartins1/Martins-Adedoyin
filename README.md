@@ -95,13 +95,10 @@ Bob	Marketing	7	$109026	5
 <img src="https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/Screenshot%20(112).png" width="350"> <img src="https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/Screenshot%20(113).png" width="350">
 
 ### Objective
-      - To apply different lookup functions in Excel to retrieve and analyze customer-related information.
-
-      - To demonstrate the differences, strengths, and limitations of VLOOKUP, HLOOKUP, and XLOOKUP.
-
-      - To showcase how lookup formulas can be used in real-world business scenarios such as sales tracking, customer service, and reporting.
-
-      -  To create a clear, structured, and user-friendly Excel workbook that can serve as a reference tool for data analysis.
+     - To apply different lookup functions in Excel to retrieve and analyze customer-related information.
+     - To demonstrate the differences, strengths, and limitations of VLOOKUP, HLOOKUP, and XLOOKUP.
+     - To showcase how lookup formulas can be used in real-world business scenarios such as sales tracking, customer service, and reporting.
+     - To create a clear, structured, and user-friendly Excel workbook that can serve as a reference tool for data analysis.
 
 ### Methodology
 1.	Data Cleaning & Preparation:
