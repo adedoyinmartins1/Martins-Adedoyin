@@ -90,7 +90,7 @@ Bob	Marketing	7	$109026	5
 - **Link**: [Project Repository](https://github.com/adedoyinmartins1/Excel-Logical-Functions-Project--Workforce-Analysis-Assignment)
 
 
-### Excel Lookups Project 1 Documentation
+### Excel Lookups Project-1 Documentation
 
 <img src="https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/Screenshot%20(112).png" width="350"> <img src="https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/Screenshot%20(113).png" width="350">
 
@@ -115,4 +115,4 @@ Bob	Marketing	7	$109026	5
 - **Technologies**: Microsoft Excel (Formulas: VLOOKUP, HLOOKUP, XLOOKUP)
 
 - **File**: [Excel Lookups Project 1 Documentation](https://github.com/adedoyinmartins1/Excel-Project-Documentation/blob/main/Lookups-START11.xlsx)
-
+- **Link**: [Project Repository](https://github.com/adedoyinmartins1/Excel-Project-Documentation) 
