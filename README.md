@@ -106,14 +106,14 @@ Bob	Marketing	7	$109026	5
 ### Methodology
 1.	Data Cleaning & Preparation:
     - Organized the dataset into a structured format suitable for lookup operations.
-  - Ensured that customer IDs and product names could serve as unique identifiers.
+    - Ensured that customer IDs and product names could serve as unique identifiers.
 2.	Application of Lookup Functions:
-  - VLOOKUP: Used to retrieve customer details (e.g., full name, gender) by referencing customer IDs.
-  - HLOOKUP: Applied to search product-related information across row headers.
+    - VLOOKUP: Used to retrieve customer details (e.g., full name, gender) by referencing customer IDs.
+    - HLOOKUP: Applied to search product-related information across row headers.
   - XLOOKUP: Implemented for more advanced searches (e.g., retrieving order dates or products purchased) to overcome VLOOKUP/HLOOKUP limitations.
 3.	Testing & Validation:
-  - Cross-checked the results of each lookup formula for accuracy.
-  - Compared outputs of VLOOKUP vs. XLOOKUP for consistency.
+    - Cross-checked the results of each lookup formula for accuracy.
+    - Compared outputs of VLOOKUP vs. XLOOKUP for consistency.
 
 - **Technologies**: Microsoft Excel (Formulas: VLOOKUP, HLOOKUP, XLOOKUP)
 
