@@ -93,3 +93,22 @@ Bob	Marketing	7	$109026	5
 ### Excel Project Documentation
 
 <img src="https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/Screenshot%20(112).png" width="350"> <img src="https://github.com/adedoyinmartins1/Martins-Adedoyin/blob/main/Screenshot%20(113).png" width="350">
+
+### Objective
+•	To apply different lookup functions in Excel to retrieve and analyze customer-related information.
+•	To demonstrate the differences, strengths, and limitations of VLOOKUP, HLOOKUP, and XLOOKUP.
+•	To showcase how lookup formulas can be used in real-world business scenarios such as sales tracking, customer service, and reporting.
+•	To create a clear, structured, and user-friendly Excel workbook that can serve as a reference tool for data analysis.
+
+### Methodology
+1.	Data Cleaning & Preparation:
+o	Organized the dataset into a structured format suitable for lookup operations.
+o	Ensured that customer IDs and product names could serve as unique identifiers.
+2.	Application of Lookup Functions:
+o	VLOOKUP: Used to retrieve customer details (e.g., full name, gender) by referencing customer IDs.
+o	HLOOKUP: Applied to search product-related information across row headers.
+o	XLOOKUP: Implemented for more advanced searches (e.g., retrieving order dates or products purchased) to overcome VLOOKUP/HLOOKUP limitations.
+3.	Testing & Validation:
+o	Cross-checked the results of each lookup formula for accuracy.
+o	Compared outputs of VLOOKUP vs. XLOOKUP for consistency
+
