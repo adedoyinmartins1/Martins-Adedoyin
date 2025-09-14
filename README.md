@@ -27,29 +27,29 @@
 
 - **Data Description**: The dataset is a tabular structure with 501 rows of sample order data, including the following columns:
 
-  •	Customer¬_#: Unique customer identifier.
+    - Customer¬_#: Unique customer identifier.
 
-  •	Full Name: Customer's name.
+    - Full Name: Customer's name.
 
-  •	Gender: Female or Male.
+    - Gender: Female or Male.
 
-  •	City: Customer's city.
+    - City: Customer's city.
 
-  •	Country: Customer's country.
+    - Country: Customer's country.
 
-  •	Phone Number: Contact number (some marked as "Not Found").
+    - Phone Number: Contact number (some marked as "Not Found").
 
-  •	Products: Product name (e.g., Product 1, Product 10).
+    - Products: Product name (e.g., Product 1, Product 10).
 
-  •	Quantity: Number of units purchased (not used in counting but available for potential extensions).
+    - Quantity: Number of units purchased (not used in counting but available for potential extensions).
   
 - **Technology**: Excel (COUNTIFS)
 - **Methodology**: I followed a structured approach to complete the assignment:
 1.	Data Preparation: 
-- Imported the dataset into Sheet1 named it (Task).
-- Created 2 new sheets named them (Female category and Male category) respectively.
-- In the 2 sheets, I listed unique countries in Column A. I was able to do that by using the duplicate remover function by highlighting the data range and press Alt + A + M then Enter.
-- Listed out all the products from 1-10 in the other Columns.
+    - Imported the dataset into Sheet1 named it (Task).
+    - Created 2 new sheets named them (Female category and Male category) respectively.
+    - In the 2 sheets, I listed unique countries in Column A. I was able to do that by using the duplicate remover function by highlighting the data range and press Alt + A + M then Enter.
+    - Listed out all the products from 1-10 in the other Columns.
 2.	Formula Application: Used COUNTIFS to count rows in Sheet1 meeting multiple criteria: matching gender and country e.g.
 General COUNTIFS syntax: =COUNTIFS(range1, criteria1, range2, criteria2, ...)
 Specific formulas =COUNTIFS(CountIFS_Test!$C$2:$C$501,CountIFS_Test!$C$2,CountIFS_Test!$E$2:$E$501,A2,CountIFS_Test!$H$2:$H$501,CountIFS_Test!$H$3) this was formula was specifically used to obtain the result for Product 1 in the female category, and the same approach was applied for all the products. 
@@ -68,11 +68,11 @@ Specific formulas =COUNTIFS(CountIFS_Test!$C$2:$C$501,CountIFS_Test!$C$2,CountIF
 The dataset is structured in an Excel workbook named "Excel-Logical Assignment.xlsx" with two sheets:
 
 •	**Task-Workforce_Planning_and_Pro: Raw data including**:
-  - Employee Name (e.g., Alice, Bob)
-  - Department (IT, Sales, Marketing, HR, Finance)
-  - Performance Score (1-10)
-  - Salary (numeric, in USD)
-  - Years of Experience (0-20)
+    - Employee Name (e.g., Alice, Bob)
+    - Department (IT, Sales, Marketing, HR, Finance)
+    - Performance Score (1-10)
+    - Salary (numeric, in USD)
+    - Years of Experience (0-20)
 
 •	**Logical_workout**: Extended sheet with derived columns (as per assignment tasks). 
 
@@ -110,7 +110,7 @@ Bob	Marketing	7	$109026	5
 2.	Application of Lookup Functions:
     - VLOOKUP: Used to retrieve customer details (e.g., full name, gender) by referencing customer IDs.
     - HLOOKUP: Applied to search product-related information across row headers.
-  - XLOOKUP: Implemented for more advanced searches (e.g., retrieving order dates or products purchased) to overcome VLOOKUP/HLOOKUP limitations.
+    - XLOOKUP: Implemented for more advanced searches (e.g., retrieving order dates or products purchased) to overcome VLOOKUP/HLOOKUP limitations.
 3.	Testing & Validation:
     - Cross-checked the results of each lookup formula for accuracy.
     - Compared outputs of VLOOKUP vs. XLOOKUP for consistency.
