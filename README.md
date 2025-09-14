@@ -113,5 +113,7 @@ Bob	Marketing	7	$109026	5
   - XLOOKUP: Implemented for more advanced searches (e.g., retrieving order dates or products purchased) to overcome VLOOKUP/HLOOKUP limitations.
 3.	Testing & Validation:
   - Cross-checked the results of each lookup formula for accuracy.
-  - Compared outputs of VLOOKUP vs. XLOOKUP for consistency
+  - Compared outputs of VLOOKUP vs. XLOOKUP for consistency.
+
+- **Technologies**: Microsoft Excel (Formulas: VLOOKUP, HLOOKUP, XLOOKUP)
 
