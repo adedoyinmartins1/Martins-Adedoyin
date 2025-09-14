@@ -105,7 +105,7 @@ Bob	Marketing	7	$109026	5
 
 ### Methodology
 1.	Data Cleaning & Preparation:
-  - Organized the dataset into a structured format suitable for lookup operations.
+    - Organized the dataset into a structured format suitable for lookup operations.
   - Ensured that customer IDs and product names could serve as unique identifiers.
 2.	Application of Lookup Functions:
   - VLOOKUP: Used to retrieve customer details (e.g., full name, gender) by referencing customer IDs.
