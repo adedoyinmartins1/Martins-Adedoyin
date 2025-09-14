@@ -114,3 +114,5 @@ Bob	Marketing	7	$109026	5
 
 - **Technologies**: Microsoft Excel (Formulas: VLOOKUP, HLOOKUP, XLOOKUP)
 
+- **File**: [Excel Lookups Project 1 Documentation](https://github.com/adedoyinmartins1/Excel-Project-Documentation/blob/main/Lookups-START11.xlsx)
+
