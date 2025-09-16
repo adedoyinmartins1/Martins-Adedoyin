@@ -4,7 +4,7 @@
 
 **Hello! I’m Martins Adedoyin, an entry-level data analyst with a specialization in Excel. I have mastered various formulas, including IF, IFS, COUNTIF, COUNTIFS, VLOOKUP, XLOOKUP, TEXT, and TRIM. I am passionate about cleaning messy datasets and delivering clear, actionable insights to drive business success. After completing my Excel training, I plan to learn Power BI, SQL, and data storytelling to create impactful strategies. This portfolio showcases my projects and skills, demonstrating my commitment to becoming a proficient data analyst.**
  
-### About Me
+## About Me
 - **Background**: Self-taught data analyst with 3+ months of experience in Excel, focusing on data analysis and visualization. I started my journey in July 2025 and am excited to grow in the field.
 - **Skills**:
 
@@ -116,3 +116,6 @@ Bob	Marketing	7	$109026	5
 
 - **File**: [Excel Lookups Project 1 Documentation](https://github.com/adedoyinmartins1/Excel-Project-Documentation/blob/main/Lookups-START11.xlsx)
 - **Link**: [Project Repository](https://github.com/adedoyinmartins1/Excel-Project-Documentation) 
+
+## GitHub Stats
+-**Public Repos**: Check my [GitHub profile]
