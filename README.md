@@ -118,4 +118,8 @@ Bob	Marketing	7	$109026	5
 - **Link**: [Project Repository](https://github.com/adedoyinmartins1/Excel-Project-Documentation) 
 
 ## GitHub Stats
--**Public Repos**: Check my [GitHub profile]
+- **Public Repos**: Check my [GitHub profile] (https://github.com/adedoyinmartins1) for more
+- **Contributions**: Actively updating with new projects.
+
+## Connect
+- [Linkedin] 
