@@ -122,4 +122,7 @@ Bob	Marketing	7	$109026	5
 - **Contributions**: Actively updating with new projects.
 
 ## Connect
-- [Linkedin] 
+- [Linkedin]
+- [Email](adedoyinmartins1@gmail.com)
+- [GitHub](https://github.com/adedoyinmartins1)
+Lets collaborate or discuss opportunities!
