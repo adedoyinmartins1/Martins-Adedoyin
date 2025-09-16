@@ -125,4 +125,5 @@ Bob	Marketing	7	$109026	5
 - [Linkedin]
 - [Email](adedoyinmartins1@gmail.com)
 - [GitHub](https://github.com/adedoyinmartins1)
+
 Lets collaborate or discuss opportunities!
